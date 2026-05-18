@@ -31,5 +31,3 @@ Blood vessel and lesion segmentation mask overlaid on retinal fundus image.
 ![Segmentation](https://github.com/user-attachments/assets/84517c8c-2658-4b5c-b7dc-527ef826e0bf)
 
 ---
-
-*Dept. of CSE (Data Science), Bangalore Institute of Technology — 2026-27*
